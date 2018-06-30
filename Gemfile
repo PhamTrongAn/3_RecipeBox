@@ -40,6 +40,7 @@ gem 'jbuilder', '~> 2.5'
  gem 'paperclip', '~> 6.0'
  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
  gem 'cocoon', '~> 1.2', '>= 1.2.11'
+ gem 'devise', '~> 4.4', '>= 4.4.3'
  
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
